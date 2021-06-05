@@ -1,0 +1,50 @@
+[00:00.000] Moderator asks question 1
+[00:00.000] Commentator #1 generates answer, position in queue: 0
+[00:00.000] Commentator #3 generates answer, position in queue: 1
+[00:00.000] Commentator #1's turn to speak for 2.694 seconds
+[00:02.694] Commentator #1 finished speaking
+[00:02.694] Commentator #3's turn to speak for 2.441 seconds
+[00:05.135] Commentator #3 finished speaking
+[00:05.136] Moderator asks question 2
+[00:05.136] Commentator #2 generates answer, position in queue: 0
+[00:05.136] Commentator #3 generates answer, position in queue: 1
+[00:05.136] Commentator #4 generates answer, position in queue: 2
+[00:05.136] Commentator #1 generates answer, position in queue: 3
+[00:05.136] Commentator #2's turn to speak for 2.855 seconds
+[00:06.001] Breaking news!
+[00:06.001] Commentator #2 is cut short due to a breaking news
+[00:11.001] Breaking news ends
+[00:11.001] Commentator #3's turn to speak for 1.022 seconds
+[00:12.023] Commentator #3 finished speaking
+[00:12.023] Commentator #4's turn to speak for 1.474 seconds
+[00:13.497] Commentator #4 finished speaking
+[00:13.497] Commentator #1's turn to speak for 2.313 seconds
+[00:15.810] Commentator #1 finished speaking
+[00:15.810] Moderator asks question 3
+[00:15.810] Commentator #3 generates answer, position in queue: 0
+[00:15.810] Commentator #2 generates answer, position in queue: 1
+[00:15.810] Commentator #3's turn to speak for 1.211 seconds
+[00:17.021] Commentator #3 finished speaking
+[00:17.021] Commentator #2's turn to speak for 1.105 seconds
+[00:18.127] Commentator #2 finished speaking
+[00:18.127] Moderator asks question 4
+[00:18.127] Commentator #1 generates answer, position in queue: 0
+[00:18.127] Commentator #2 generates answer, position in queue: 1
+[00:18.127] Commentator #1's turn to speak for 2.506 seconds
+[00:20.632] Commentator #1 finished speaking
+[00:20.632] Commentator #2's turn to speak for 1.457 seconds
+[00:22.090] Commentator #2 finished speaking
+[00:22.090] Moderator asks question 5
+[00:22.090] Commentator #4 generates answer, position in queue: 0
+[00:22.090] Commentator #3 generates answer, position in queue: 1
+[00:22.090] Commentator #2 generates answer, position in queue: 2
+[00:22.090] Commentator #4's turn to speak for 2.073 seconds
+[00:24.162] Commentator #4 finished speaking
+[00:24.162] Commentator #3's turn to speak for 2.546 seconds
+[00:26.709] Commentator #3 finished speaking
+[00:26.709] Commentator #2's turn to speak for 2.814 seconds
+[00:27.002] Breaking news!
+[00:27.002] Commentator #2 is cut short due to a breaking news
+[00:32.003] Breaking news ends
+[00:32.003] Simulation finished.
+

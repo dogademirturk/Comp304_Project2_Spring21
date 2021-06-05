@@ -1,0 +1,45 @@
+[00:00.000] Moderator asks question 1
+[00:00.000] Commentator #2 generates answer, position in queue: 0
+[00:00.000] Commentator #2's turn to speak for 1.054 seconds
+[00:01.055] Commentator #2 finished speaking
+[00:01.055] Moderator asks question 2
+[00:01.055] Commentator #1 generates answer, position in queue: 0
+[00:01.055] Commentator #4 generates answer, position in queue: 1
+[00:01.055] Commentator #3 generates answer, position in queue: 2
+[00:01.055] Commentator #1's turn to speak for 1.915 seconds
+[00:02.970] Commentator #1 finished speaking
+[00:02.970] Commentator #4's turn to speak for 2.450 seconds
+[00:05.419] Commentator #4 finished speaking
+[00:05.419] Commentator #3's turn to speak for 2.617 seconds
+[00:08.037] Commentator #3 finished speaking
+[00:08.037] Moderator asks question 3
+[00:08.037] Commentator #2 generates answer, position in queue: 0
+[00:08.037] Commentator #4 generates answer, position in queue: 1
+[00:08.037] Commentator #3 generates answer, position in queue: 2
+[00:08.037] Commentator #2's turn to speak for 1.459 seconds
+[00:09.001] Breaking news!
+[00:09.001] Commentator #2 is cut short due to a breaking news
+[00:14.001] Breaking news ends
+[00:14.001] Commentator #4's turn to speak for 2.467 seconds
+[00:16.468] Commentator #4 finished speaking
+[00:16.468] Commentator #3's turn to speak for 1.876 seconds
+[00:18.345] Commentator #3 finished speaking
+[00:18.345] Moderator asks question 4
+[00:18.345] Commentator #3 generates answer, position in queue: 0
+[00:18.345] Commentator #3's turn to speak for 1.836 seconds
+[00:20.181] Commentator #3 finished speaking
+[00:20.181] Moderator asks question 5
+[00:20.181] Commentator #2 generates answer, position in queue: 0
+[00:20.181] Commentator #1 generates answer, position in queue: 1
+[00:20.181] Commentator #4 generates answer, position in queue: 2
+[00:20.181] Commentator #3 generates answer, position in queue: 3
+[00:20.181] Commentator #2's turn to speak for 1.024 seconds
+[00:21.205] Commentator #2 finished speaking
+[00:21.205] Commentator #1's turn to speak for 1.785 seconds
+[00:22.990] Commentator #1 finished speaking
+[00:22.990] Commentator #4's turn to speak for 1.664 seconds
+[00:24.654] Commentator #4 finished speaking
+[00:24.655] Commentator #3's turn to speak for 2.425 seconds
+[00:27.079] Commentator #3 finished speaking
+[00:27.079] Simulation finished.
+
