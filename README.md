@@ -1,6 +1,6 @@
 # Comp304_Project2_Spring21
-###Doğa Demirtürk
-###İrem Şahin
+### Doğa Demirtürk
+### İrem Şahin
 
 To run the project with default values of n=4, p=0.75, q=5, t=3 and b=0.05, please write "make" to first compile the program.After this, please write "make test" to the terminal and simply watch the simulation. 
 
